@@ -1,8 +1,8 @@
-# Webpack 3 Plugin Starter
+# Webpack 4 Plugin Starter
 
 ## Description
 
-Webpack 3 Plugin Starter is a simple starter for generating Webpack 3 Plugins
+Webpack 4 Plugin Starter is a simple starter for generating Webpack 4 Plugins
 
 ### Usage
 
@@ -17,7 +17,7 @@ Released under the MIT license
 
 ### Credits
 
-webpack-3-plugin-starter written by Mike Erickson
+webpack-4-plugin-starter written by Mike Erickson
 
 E-Mail: [codedungeon@gmail.com](mailto:codedungeon@gmail.com)
 
